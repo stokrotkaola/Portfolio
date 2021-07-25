@@ -9,6 +9,31 @@ body {
   font-family: "Questrial", sans-serif;
 }
 
+h2 {
+  font-size: 150px;
+  color: var(--primary-color);
+  margin-top: 55px;
+  margin-bottom: 0;
+  padding-left: 200px;
+}
+
+p {
+  font-size: 26px;
+  color: white;
+  padding-left: 200px;
+  padding-right: 300px;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--primary-color);
+}
+
 .navbar-nav {
   margin-left: auto;
 }
@@ -44,4 +69,15 @@ body {
   font-size: 26px;
   color: white;
   padding-left: 215px;
+}
+
+.higlight-skills {
+  color: var(--primary-color);
+}
+
+.technologies-logos {
+  font-size: 70px;
+  color: var(--secondary-color);
+  padding-left: 200px;
+  padding-right: 300px;
 }
