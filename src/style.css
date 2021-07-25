@@ -1,0 +1,47 @@
+:root {
+  --primary-color: #fffc52;
+  --secondary-color: #272727;
+  --additional-color: #fd2155;
+}
+
+body {
+  background-color: #1d1d1d;
+  font-family: "Questrial", sans-serif;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar-colour {
+  background-color: #1d1d1d;
+  font-size: 19px;
+}
+
+.nav-item {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+.hello {
+  font-size: 200px;
+  color: var(--primary-color);
+  margin-top: 55px;
+  margin-bottom: 0;
+  padding-left: 200px;
+  line-height: 1;
+}
+
+.ola {
+  font-size: 200px;
+  color: white;
+  padding-left: 200px;
+}
+
+.front-end-dev {
+  font-size: 26px;
+  color: white;
+  padding-left: 215px;
+}
