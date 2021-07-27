@@ -189,6 +189,7 @@ img {
 
   .project-title {
     font-size: 26px;
+    text-align: left;
   }
 
   .hello {
@@ -210,5 +211,29 @@ img {
 
   .navbar-detail {
     padding-right: 0px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .fancy-box {
+    margin-bottom: 10px;
+  }
+
+  .hello {
+    margin-left: 80px;
+  }
+
+  .ola {
+    padding-left: 0px;
+    margin-left: 80px;
+  }
+
+  .front-end-dev {
+    padding-left: 0;
+    margin-left: 80px;
+  }
+
+  .description-box {
+    padding-left: 120px;
   }
 }
