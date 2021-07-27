@@ -145,4 +145,16 @@ img {
 }
 
 @media (max-width: 576px) {
+  h2 {
+    font-size: 96px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  p {
+    padding-left: 0;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+  }
 }
