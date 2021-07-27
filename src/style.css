@@ -60,7 +60,7 @@ a:hover {
 }
 
 .navbar-toggler {
-  border-color: var(--selection-color);
+  border-color: transparent;
 }
 
 .navbar-toggler-icon {
