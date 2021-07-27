@@ -31,6 +31,7 @@ p {
   color: white;
   padding-left: 80px;
   line-height: 2;
+  margin-bottom: 20px;
 }
 
 a {
@@ -88,7 +89,7 @@ a:hover {
 }
 
 .contact-p {
-  padding-left: 20px;
+  padding-left: 80px;
 }
 
 .contact-logos {
@@ -110,6 +111,13 @@ a:hover {
 
 .sheCodes:hover {
   color: white;
+}
+
+img {
+  width: 381px;
+  height: 235px;
+  margin-top: 30px;
+  margin-left: 90px;
 }
 
 @media (max-width: 576px) {
