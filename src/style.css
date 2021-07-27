@@ -214,6 +214,41 @@ img {
   }
 }
 
+@media (max-width: 800px) {
+  img {
+    margin-left: ;
+  }
+
+  h2 {
+    margin-bottom: 20px;
+    margin-top: 30px;
+  }
+
+  p {
+    font-size: 30px;
+  }
+  .hello {
+    margin-left: 150px;
+    margin-top: 250px;
+    font-size: 150px;
+  }
+
+  .ola {
+    margin-left: 150px;
+    padding-left: 0px;
+    font-size: 150px;
+  }
+
+  .front-end-dev {
+    font-size: 30px;
+  }
+
+  .description-box {
+    padding-left: 100px;
+    padding-right: 50px;
+  }
+}
+
 @media (max-width: 1200px) {
   .fancy-box {
     margin-bottom: 20px;
