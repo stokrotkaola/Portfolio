@@ -215,10 +215,6 @@ img {
 }
 
 @media (max-width: 800px) {
-  img {
-    margin-left: ;
-  }
-
   h2 {
     margin-bottom: 20px;
     margin-top: 30px;
