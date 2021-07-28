@@ -179,6 +179,14 @@ img {
     font-size: 20px;
   }
 
+  .all-contact-details {
+    margin-top: 50px;
+  }
+
+  .contact-links {
+    margin-bottom: 30px;
+  }
+
   .portfolio-p {
     padding-left: 0;
     margin-left: 30px;
