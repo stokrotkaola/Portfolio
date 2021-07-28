@@ -225,27 +225,3 @@ img {
     padding-right: 0px;
   }
 }
-
-@media (max-width: 1200px) {
-  .fancy-box {
-    margin-bottom: 20px;
-  }
-
-  .hello {
-    margin-left: 80px;
-  }
-
-  .ola {
-    padding-left: 0px;
-    margin-left: 80px;
-  }
-
-  .front-end-dev {
-    padding-left: 0;
-    margin-left: 80px;
-  }
-
-  .description-box {
-    padding-left: 120px;
-  }
-}
