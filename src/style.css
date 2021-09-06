@@ -161,6 +161,11 @@ img {
   margin-top: 100px;
 }
 
+.color-change:hover {
+  color: var(--additional-color);
+  transition: all 300ms ease-in-out;
+}
+
 @media (max-width: 576px) {
   img {
     margin-left: 30px;
