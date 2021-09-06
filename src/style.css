@@ -78,20 +78,22 @@ a:hover {
   color: var(--primary-color);
   margin-top: 55px;
   margin-bottom: 0;
-  margin-left: 200px;
+
   line-height: 1;
 }
 
 .ola {
   font-size: 200px;
   color: white;
-  padding-left: 200px;
+  padding-left: 0px;
+  margin-left: 80px;
 }
 
 .front-end-dev {
   font-size: 26px;
   color: white;
-  padding-left: 215px;
+  padding-left: 0px;
+  margin-left: 80px;
 }
 
 .highlight-skills {
