@@ -70,15 +70,16 @@ a:hover {
 
 .hello {
   font-size: 200px;
+  font-weight: bold;
   color: var(--primary-color);
   margin-top: 150px;
   margin-bottom: 0;
-
   line-height: 1;
 }
 
 .ola {
   font-size: 200px;
+  font-weight: bold;
   color: white;
   padding-left: 0px;
   margin-left: 80px;
