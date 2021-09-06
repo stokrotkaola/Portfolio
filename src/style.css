@@ -148,7 +148,17 @@ img {
 }
 
 .last-row {
-  margin-bottom: 150px;
+  margin-bottom: 100px;
+}
+
+.thanks {
+  font-family: "Roboto", sans-serif;
+  font-size: 200px;
+  color: var(--selection-color);
+}
+
+.thanks-box {
+  margin-top: 100px;
 }
 
 @media (max-width: 576px) {
