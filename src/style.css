@@ -8,6 +8,7 @@
 body {
   background-color: #1d1d1d;
   font-family: "Questrial", sans-serif;
+  scroll-behavior: smooth;
 }
 
 ::selection {
@@ -65,6 +66,11 @@ a:hover {
 
 .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='	rgb(52,52,52)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.each-section {
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .hello {
